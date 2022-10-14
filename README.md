@@ -18,8 +18,7 @@ Description:<br/> Major part of this project is cohort and RFM segmentation.
 Description:<br/> My A/B experiments with some apps datasets.
 - [Statistics]()<br/>
 Description:<br/>Statiscs practice
-- [API]()<br/>
-Description:<br/>Work with Google sheets, VK and Telegram api
+
 
 
 
@@ -39,9 +38,9 @@ Description:<br/>Work with Google sheets, VK and Telegram api
 
 **STACK_**<br/>
 - Python (Pandas, Seaborn, Statsmodels, SciPy, NumPy)
-- SQL (ClickHouse, MySQL, PostgreSQL)
+- SQL (MySQL, PostgreSQL)
 - A/B testing and statistics
-- BI systems (Tableau, Redash)
+- BI systems (Tableau,)
 - Git
 - Airflow
 - Excel
