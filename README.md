@@ -2,14 +2,9 @@
 <h4 align="left">Data Analyst. LTRP Cyprus</h4>
 
 
-Feel free to look around.
 
 Connect with me:
-
-<a href="vladmakarovcy@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"  /> </a>
-
-
-- How to reach me **vladmakarovcy@gmail.com**
+- **vladmakarovcy@gmail.com**
 ____________________________
 
 
