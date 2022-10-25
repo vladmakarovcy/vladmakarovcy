@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Vladislav Makarov</h2>
-<h4 align="left">Data Analyst. LTRP Cyprus</h4>
+<h4 align="left">Data Analyst. Data Science. LTRP Cyprus</h4>
 
 
 
@@ -9,11 +9,10 @@ ____________________________
 
 
 
-**ABOUT_**<br/>
-Hello !.<br/>
-Data Science.
+**ABOUT**<br/>
 
-**PROJECTS_**<br/>
+
+**PROJECTS**<br/>
 - [E-commerce project]()<br/>
 Description:<br/> Major part of this project is cohort and RFM segmentation.
 - [A/B testing]()<br/>
