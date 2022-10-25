@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Vladislav Makarov</h2>
-<h4 align="left">Data Analyst. Data Science. LTRP Cyprus</h4>
+<h4 align="left">Data Analyst.Data Scientist.</h4>
 
 
 
