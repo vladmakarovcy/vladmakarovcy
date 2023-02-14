@@ -14,9 +14,9 @@ ____________________________
 
 **PROJECTS**<br/>
 - [E-commerce project]()<br/>
-Description:<br/> Major part of this project is cohort and RFM segmentation.
+Description:<br/> 
 - [A/B testing]()<br/>
-Description:<br/> My A/B experiments with some apps datasets.
+Description:<br/> My A/B experiments.
 - [Statistics]()<br/>
 Description:<br/>Statiscs practice
 
